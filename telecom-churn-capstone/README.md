@@ -26,5 +26,5 @@ This capstone project uses the Telco Customer Churn dataset to predict customer 
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature Encoding & Scaling
-- Model Training: Logistic Regression, Random Forest
+- Model Training: Random Forest
 - Evaluation using accuracy, precision, recall, F1-score
